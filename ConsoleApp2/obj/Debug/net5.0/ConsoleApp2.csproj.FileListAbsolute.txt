@@ -1,0 +1,16 @@
+E:\HTF\6\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.exe
+E:\HTF\6\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.deps.json
+E:\HTF\6\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.json
+E:\HTF\6\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.dev.json
+E:\HTF\6\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.dll
+E:\HTF\6\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.pdb
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.AssemblyReference.cache
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfo.cs
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.dll
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\refint\ConsoleApp2.dll
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.pdb
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.genruntimeconfig.cache
+E:\HTF\6\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ref\ConsoleApp2.dll
